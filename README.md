@@ -32,6 +32,9 @@
   <a href="https://github.com/AnaSousa314" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
     <a href="https://gitlab.com/AnaSousa314" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
   </div>
+  
+  ![Snake animation](https://github.com/AnaSousa314/AnaSousa314/blob/output/github-contribution-grid-snake.svg)
+ 
 
 <!--
 **AnaSousa314/AnaSousa314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
