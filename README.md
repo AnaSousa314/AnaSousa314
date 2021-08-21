@@ -51,4 +51,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+References:
+https://github.com/anuraghazra/github-readme-stats
+https://devicon.dev/
+https://dev.to/envoy_/150-badges-for-github-pnk
 -->
