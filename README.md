@@ -36,6 +36,13 @@
   
   </div>
   
+  <p align="center">
+ Quantidade de visitas no meu perfil desde: 01/09/2021 🕵️ <br></p>
+<p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/AnaSousa314/count.svg" /></p>
+<p align="center">
+Obrigado e volte sempre 😄
+</p>
 
 
 <!--
