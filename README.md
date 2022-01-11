@@ -1,7 +1,8 @@
 ## Olá!🖖 Eu sou a Ana Sousa👩‍💻.
-- 🌱 Atualmente estou estudando: React,TypeScript,NodeJs.
+- 🌱 Atualmente estou estudando: React,TypeScript,NodeJs. Amo aprender.
 - 👯 Estou procurando colaborar em um projeto open source que busca coletar dados sobre queimadas e incêndios urbanos em minha cidade.Caso deseje contribuir também, acesse <a href="https://gitlab.com/devopspbs/community/mapa-do-fogo" target="_blank" rel="noopen noreferrer">Mapa Do Fogo</a>.
 - ⚡ Sim, eu amo Star Trek. 😜
+- Caso tenha dicas de como melhorar qualquer uma das aplicações, por favor conecte-se comigo e mande uma mensagem no meu LinkedIn, ou me mande um e-mail. E muito obrigada pelo feedback. 
 
 <div>
   <a href="https://github.com/AnaSousa314">
